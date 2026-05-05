@@ -8,6 +8,7 @@
 #include <iomanip>
 #include <ctime>
 #include <sstream>
+#include <cfloat>
 
 using namespace std;
 
