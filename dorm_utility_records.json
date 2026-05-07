@@ -1,33 +1,7 @@
 {
     "records": [
         {
-            "name": "Mary Ann",
-            "airconditioner": 50.0,
-            "inductioncooker": 51.0,
-            "multipurposecooker": 32.0,
-            "ricecooker": 45.0,
-            "clipfan": 61.0,
-            "laptopcharging": 66.0,
-            "score": 940.0,
-            "total_bill": 1000.0,
-            "share": 998.9373007438895,
-            "date": "2026-05-03 23:59:55"
-        },
-        {
-            "name": "Daniel",
-            "airconditioner": 0.0,
-            "inductioncooker": 0.0,
-            "multipurposecooker": 0.0,
-            "ricecooker": 0.0,
-            "clipfan": 1.0,
-            "laptopcharging": 0.0,
-            "score": 1.0,
-            "total_bill": 1000.0,
-            "share": 1.0626992561105206,
-            "date": "2026-05-03 23:59:55"
-        },
-        {
-            "name": "C:\\Users\\tuico\\AppData\\Local\\Programs\\Python\\Python314\\python.exe c:/Users/tuico/OneDrive/Documents/dorm_python_topic/dormulate_folder/main.py",
+            "name": "Igi Daniel",
             "airconditioner": 1.0,
             "inductioncooker": 1.0,
             "multipurposecooker": 1.0,
@@ -35,25 +9,12 @@
             "clipfan": 1.0,
             "laptopcharging": 1.0,
             "score": 20.0,
-            "total_bill": 1.0,
-            "share": 0.5,
-            "date": "2026-05-04 00:04:52"
+            "total_bill": 1000.0,
+            "share": 333.3333333333333,
+            "date": "2026-05-07 07:53:36"
         },
         {
-            "name": "1",
-            "airconditioner": 1.0,
-            "inductioncooker": 1.0,
-            "multipurposecooker": 1.0,
-            "ricecooker": 1.0,
-            "clipfan": 1.0,
-            "laptopcharging": 1.0,
-            "score": 20.0,
-            "total_bill": 1.0,
-            "share": 0.5,
-            "date": "2026-05-04 00:04:52"
-        },
-        {
-            "name": "a",
+            "name": "Murillo Tuico",
             "airconditioner": 2.0,
             "inductioncooker": 2.0,
             "multipurposecooker": 2.0,
@@ -61,48 +22,9 @@
             "clipfan": 2.0,
             "laptopcharging": 2.0,
             "score": 40.0,
-            "total_bill": 15.0,
-            "share": 6.0,
-            "date": "2026-05-05 22:14:45"
-        },
-        {
-            "name": "y",
-            "airconditioner": 3.0,
-            "inductioncooker": 3.0,
-            "multipurposecooker": 3.0,
-            "ricecooker": 3.0,
-            "clipfan": 3.0,
-            "laptopcharging": 3.0,
-            "score": 60.0,
-            "total_bill": 15.0,
-            "share": 9.0,
-            "date": "2026-05-05 22:14:45"
-        },
-        {
-            "name": "igi",
-            "airconditioner": 1.0,
-            "inductioncooker": 1.0,
-            "multipurposecooker": 1.0,
-            "ricecooker": 1.0,
-            "clipfan": 1.0,
-            "laptopcharging": 1.0,
-            "score": 20.0,
-            "total_bill": 100.0,
-            "share": 33.33333333333333,
-            "date": "2026-05-05 22:20:21"
-        },
-        {
-            "name": "dan",
-            "airconditioner": 2.0,
-            "inductioncooker": 2.0,
-            "multipurposecooker": 2.0,
-            "ricecooker": 2.0,
-            "clipfan": 2.0,
-            "laptopcharging": 2.0,
-            "score": 40.0,
-            "total_bill": 100.0,
-            "share": 66.66666666666666,
-            "date": "2026-05-05 22:20:21"
+            "total_bill": 1000.0,
+            "share": 666.6666666666666,
+            "date": "2026-05-07 07:53:36"
         }
     ]
 }
